@@ -5,3 +5,5 @@ Hi! My name is Shayan Shirani.I am a django developer and passionate about progr
 ## 📈 GitHub Stats
 [![Shayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shayan-shirani&custom_title=Shayan's%20GitHub%20stats&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shayan-shirani&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 ## 📫 Contact Me
+[![Telegram Contact](https://img.shields.io/badge/Telegram-@shayan__shirani-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/shayan_shirani) [![Gmail Contact](https://img.shields.io/badge/Gmail-shayan.sh350-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:shayan.sh350@gmail.com)
+

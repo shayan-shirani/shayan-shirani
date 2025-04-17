@@ -18,7 +18,7 @@ I specialize in building robust backend applications using the following technol
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ## 📈 GitHub Stats
-[![Shayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shayan-shirani&custom_title=Shayan's%20GitHub%20stats&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shayan-shirani&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Shayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shayan-shirani&custom_title=Shayan's%20GitHub%20stats&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ## 📫 Contact Me
 [![Telegram Contact](https://img.shields.io/badge/Telegram-@shayan__shirani-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/shayan_shirani) [![Gmail Contact](https://img.shields.io/badge/Gmail-shayan.sh350-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:shayan.sh350@gmail.com)
 
